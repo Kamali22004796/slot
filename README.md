@@ -95,7 +95,7 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![output](https://github.com/Kamali22004796/slot/assets/120567837/c9a2f600-04a3-4b63-9f00-e7def065b3c8)
+
 
 ## HTML VALIDATOR
 
