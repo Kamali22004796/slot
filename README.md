@@ -121,6 +121,7 @@ Execute the program using runserver command.
 
 ## OUTPUT
 
+![timetable image](https://github.com/Kamali22004796/slot/assets/120567837/36985354-5c69-4188-90c8-ec15e1eb99ab)
 
 ## HTML VALIDATOR
 
